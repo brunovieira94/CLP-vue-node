@@ -1,0 +1,1 @@
+# Solução de desafio CLP (Cargo Loading Problem) utilizando Node
